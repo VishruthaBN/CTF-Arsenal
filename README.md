@@ -1,4 +1,4 @@
-# CTF Arsenal 🔐
+# CTF Arsenal 
 
 A beginner-friendly, offline Python toolkit for common **authorized Capture The Flag (CTF)** tasks. It brings together classical cipher utilities, encoding/decoding helpers, single-byte XOR analysis, hashing, and basic file-signature inspection.
 
